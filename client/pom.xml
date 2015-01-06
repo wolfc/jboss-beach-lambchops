@@ -12,6 +12,8 @@
 
     <artifactId>lambchops-client</artifactId>
 
+    <name>Lambchops Client</name>
+
     <dependencies>
         <dependency>
             <groupId>${project.groupId}</groupId>

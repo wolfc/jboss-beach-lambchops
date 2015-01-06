@@ -12,6 +12,8 @@
 
     <artifactId>lambchops-server</artifactId>
 
+    <name>Lambchops Server</name>
+
     <dependencies>
         <dependency>
             <groupId>${project.groupId}</groupId>

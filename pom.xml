@@ -8,6 +8,8 @@
     <artifactId>lambchops-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
+    <name>Lamchops Parent</name>
+
     <packaging>pom</packaging>
 
     <dependencies>

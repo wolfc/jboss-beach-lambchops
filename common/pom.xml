@@ -33,4 +33,5 @@
 
     <artifactId>lambchops-common</artifactId>
 
+    <name>Lambchops Common</name>
 </project>
